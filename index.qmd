@@ -1,26 +1,27 @@
 ---
-title: "Untitled"
-format: html
+title: "Identificación de las Cadenas de Transmisión"
+subtitle: Felipe Antonio Dzul Manzanilla | CVU 6172953
+format: 
+  html:
+      theme: flatly
+      code-fold: true
+      toc: true
+      number-sections: true
+title-block-banner: true
 editor: visual
+execute:
+  freeze: auto
 ---
 
-## Quarto
+## Introducción
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+## Objetivo 
 
-## Running Code
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+## Material & Métodos
 
-```{r}
-1 + 1
-```
 
-You can add options to executable code like this
+## Resultados
 
-```{r}
-#| echo: false
-2 * 2
-```
+## Discusión
 
-The `echo: false` option disables the printing of code (only output is displayed).
